@@ -1,0 +1,60 @@
+[33mcommit 743a50dfcaa899d8bf83240e3278f3609853b64f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Rafael Aquino <rafaaquino28@gmail.com>
+Date:   Wed Apr 7 21:03:38 2021 -0300
+
+    .travis.yml ajuste
+
+[33mcommit 106d2eb74b553944b670e2dc13e9e3f4eb5c36ef[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Rafael Aquino <rafaaquino28@gmail.com>
+Date:   Wed Apr 7 20:46:32 2021 -0300
+
+    integração com Travis CI
+
+[33mcommit 37b4e6b89f87b0066524cbe9b64eca07d1d6dfb2[m
+Author: Rafael Aquino <rafaaquino28@gmail.com>
+Date:   Tue Apr 6 20:40:16 2021 -0300
+
+    instalação do browserify
+
+[33mcommit 1dd7895855dacf04ad02296cf01ec6878a9a3de8[m
+Merge: 6040e6a 58a5e1e
+Author: Rafael Aquino <rafaaquino28@gmail.com>
+Date:   Tue Apr 6 20:14:05 2021 -0300
+
+    Merge branch 'master' of https://github.com/Rafaaquino/teste-unitario-jasmine
+
+[33mcommit 6040e6ab4ef2218e80d460ee50b76eb2d3ed61a5[m
+Author: Rafael Aquino <rafaaquino28@gmail.com>
+Date:   Tue Apr 6 20:12:29 2021 -0300
+
+    instalação do Karma
+
+[33mcommit 58a5e1e822229cb0e1f1614629a9720faec0aa48[m
+Author: Rafael Aquino <rafaaquino28@gmail.com>
+Date:   Mon Apr 5 22:14:33 2021 -0300
+
+    Update README.md
+
+[33mcommit 04801735927abc65557845cdef85f40d42b37c75[m
+Author: Rafael Aquino <rafaaquino28@gmail.com>
+Date:   Mon Apr 5 22:13:42 2021 -0300
+
+    Create README.md
+
+[33mcommit 8bb2e32c1135cf4036fe71cf3960914cbc882588[m
+Author: Rafael Aquino <rafaaquino28@gmail.com>
+Date:   Mon Apr 5 21:07:30 2021 -0300
+
+    jasmine examples
+
+[33mcommit 6e988383066e1661cef35daea48cc60adcdb7cd5[m
+Author: Rafael Aquino <rafaaquino28@gmail.com>
+Date:   Mon Apr 5 20:56:31 2021 -0300
+
+    teste exemplo
+
+[33mcommit f05ba896c1b5ad9087f6aee1c8c0a871ee255a8a[m
+Author: Rafael Aquino <rafaaquino28@gmail.com>
+Date:   Mon Apr 5 20:47:05 2021 -0300
+
+    inicio de projeto
